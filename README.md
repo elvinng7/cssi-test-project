@@ -10,4 +10,4 @@ The squirrel ate the Acorn.
 
 The squirrel then climbed down the tree.
 
-The squirrel saw another squirrel named Elvin and learned how to play the flute.
+The squirrel saw another squirrel named Elvin and learned how to play the flute. He played the flute effortlessly.
