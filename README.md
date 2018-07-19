@@ -2,7 +2,7 @@
 cssi test project
 
 
-Once there was a squirrel that climbed up a tree.
+Once there was a squirrel named Alex that climbed up a  tree in the middle of the Muir Wood Forest.
 
 He got hungry when he saw an Acorn.  
 
