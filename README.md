@@ -2,7 +2,7 @@
 cssi test project
 
 
-Once there was a squirrel named Alex that climbed up a  tree in the middle of Yosemite National Park. 
+Once there was a squirrel named Alex that climbed up a skyscraper in the middle of Yosemite National Park. 
 
 He got hungry when he saw an Acorn.  
 
